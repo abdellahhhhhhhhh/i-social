@@ -1,0 +1,19 @@
+{
+  "name": "i-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  },
+  "scripts": {
+    "test": "npx jest"
+  }
+
+
+}
+
