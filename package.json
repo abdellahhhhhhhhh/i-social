@@ -11,8 +11,9 @@
     "jest": "^30.0.4"
   },
   "scripts": {
-    "test": "npx jest"
+   "test": "node --no-warnings ./node_modules/jest/bin/jest.js --runInBand"
   }
+
 
 
 }
